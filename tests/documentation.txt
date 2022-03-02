@@ -1,0 +1,4 @@
+If you get "PytestUnknownMarkWarning", create a pytest.ini file to get rid of the warnings.
+Simply add the new marking to the list.
+
+An alternative - "not as good" - way is to disable all warnings with the --disable-warnings tag
